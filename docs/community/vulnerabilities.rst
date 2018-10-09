@@ -1,6 +1,8 @@
 Vulnerability Disclosure
 ========================
 
+.. image:: https://farm5.staticflickr.com/4211/34709353644_b041e9e1c2_k_d.jpg
+
 If you think you have found a potential security vulnerability in requests,
 please email `sigmavirus24 <mailto:graffatcolmingov@gmail.com>`_ and
 `Lukasa <mailto:cory@lukasa.co.uk>`_ directly. **Do not file a public issue.**
@@ -70,7 +72,7 @@ time, to ensure that they are able to promptly release their downstream
 packages. Currently the list of people we actively contact *ahead of a public
 release* is:
 
-- Ralph Bean, Red Hat (@ralphbean)
+- Jeremy Cline, Red Hat (@jeremycline)
 - Daniele Tricoli, Debian (@eriol)
 
 We will notify these individuals at least a week ahead of our planned release

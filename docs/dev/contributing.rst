@@ -3,6 +3,8 @@
 Contributor's Guide
 ===================
 
+.. image:: https://farm5.staticflickr.com/4237/35550408335_7671fde302_k_d.jpg
+
 If you're reading this, you're probably interested in contributing to Requests.
 Thank you very much! Open source projects live-and-die based on the support
 they receive from others, and the fact that you're even considering
@@ -39,7 +41,7 @@ including reporting bugs or requesting features. This golden rule is
 **All contributions are welcome**, as long as
 everyone involved is treated with respect.
 
-.. _be cordial or be on your way: http://kennethreitz.org/be-cordial-or-be-on-your-way/
+.. _be cordial or be on your way: https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way
 
 .. _early-feedback:
 
@@ -155,7 +157,7 @@ model methods (e.g. ``__repr__``) are typically the exception to this rule.
 
 Thanks for helping to make the world a better place!
 
-.. _PEP 8: http://pep8.org
+.. _PEP 8: https://pep8.org/
 .. _line continuations: https://www.python.org/dev/peps/pep-0008/#indentation
 
 Documentation Contributions
@@ -187,7 +189,7 @@ through the `GitHub issues`_, **both open and closed**, to confirm that the bug
 hasn't been reported before. Duplicate bug reports are a huge drain on the time
 of other contributors, and should be avoided as much as possible.
 
-.. _GitHub issues: https://github.com/kennethreitz/requests/issues
+.. _GitHub issues: https://github.com/requests/requests/issues
 
 
 Feature Requests
